@@ -1,0 +1,21 @@
+button {
+  margin: 5px 5px 5px 5px;
+}
+
+#counter {
+  margin: 5px 5px 5px 5px;
+}
+
+#editor {
+  border: 1px solid black;
+  height: 300px;
+  margin: 5px 5px 5px 5px;
+}
+
+#msgbox {
+  border: 1px solid black;
+  height: 200px;
+  margin: 5px 5px 5px 5px;
+  overflow: auto;
+  font-family: 10px Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+}
